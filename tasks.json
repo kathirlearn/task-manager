@@ -1,0 +1,22 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "title": "Node install",
+            "description": "Install node js",
+            "priority": "low",
+            "completed": false,
+            "createdOn": 1696049864258,
+            "updatedOn": 1696049864258
+        },
+        {
+            "id": 2,
+            "title": "Project Creation",
+            "description": "Node project setup",
+            "priority": "high",
+            "completed": true,
+            "createdOn": 1696050752198,
+            "updatedOn": 1696053237718
+        }
+    ]
+}
