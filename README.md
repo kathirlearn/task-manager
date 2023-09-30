@@ -14,7 +14,10 @@ Build a RESTful API for a simple task manager application using an in-memory dat
 
 **DELETE** '/tasks/:id' - Delete particular task based on Id.
 
+
+
 **Filtering & Sorting :** 
+
 
 **GET** '/tasks?completed=true'  -  To retrieve all tasks based on filter by completed status.
 
